@@ -1,6 +1,6 @@
 const path = require("path");
 module.exports = {
-  title: 'cordova学习笔记',
+  title: 'Cordova 学习笔记',
   description: 'cordova相关知识点',
   base: '/web-cordova/', // 部署站点的基础路径
   port: 3010,
